@@ -1,10 +1,10 @@
-# 📚 Best-Selling Books Dataset (Cleaned & Visualized)
+#  Best-Selling Books Dataset (Cleaned & Visualized)
 
 This repository contains cleaned and summarized datasets based on the "Best-Selling Books of All Time". The data is used for building interactive dashboards and data visualizations, as part of the personal portfolio project by Abdul Ghofur.
 
 ---
 
-## 📁 File Structure
+##  File Structure
 
 Below is a list of available CSV files and their descriptions:
 
